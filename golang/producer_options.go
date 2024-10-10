@@ -24,7 +24,7 @@ import (
 
 	"go.uber.org/atomic"
 
-	v2 "github.com/apache/rocketmq-clients/golang/v5/protocol/v2"
+	v2 "github.com/ldongpo/rocketmq-clients/golang/v5/protocol/v2"
 	"google.golang.org/protobuf/types/known/durationpb"
 )
 
